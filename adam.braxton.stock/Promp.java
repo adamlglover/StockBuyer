@@ -13,7 +13,8 @@ Calculator calculator;
                prompt.getName();
                prompt.getMoney();
             }
-           prompt.getStockName();
+           prompt.buysell();   // ask the user to buy or sell stock
+	   prompt.getStockName();
            prompt.getShares();
            transaction.handleTransaction();
            calculator.claculate();
