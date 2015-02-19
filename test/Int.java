@@ -20,5 +20,7 @@ class Int {
    boolean g = false;
    boolean t = 1;
    booolean g = 0;
+   String bool = "This is a bool : " + h;
+   String bool = "This is a bool : true";
    
 }
