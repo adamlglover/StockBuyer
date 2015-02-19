@@ -7,5 +7,14 @@ public class House {
       return "The maxumin ammount of people that can live is " + bedrooms;
    }
 
-  
+    class Buyer {
+
+
+       void intrest(){
+           System.out.println("I Am intrested in a house that has " + maxCapacity());
+       }
+
+
+   }
+ 
 }
