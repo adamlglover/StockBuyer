@@ -16,6 +16,8 @@ public class Lesson4 {
 
  // advanced concatination
  String str3 = "The number : " + 3 + " is added the string";
+ String str5 = "This is crazy string" + (x + cos(y)) + "...";
+ String str6 = "Will this work?" + 7 + 7 + " (y/n)"; 
 
  int num = 3;
 
