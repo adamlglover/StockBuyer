@@ -5,6 +5,7 @@ class Int {
    int iw = -65787;
    
    int i = 6 + 8;
+   String l = "val : " + i;
    int f = 9 * 5;
    int g = 9 % 7;
    int k = 1 - 8;
