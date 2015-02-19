@@ -15,4 +15,10 @@ class Int {
    int b = 6;
    
    int c = 5 / 6;
+   
+   boolean h = true;
+   boolean g = false;
+   boolean t = 1;
+   booolean g = 0;
+   
 }
