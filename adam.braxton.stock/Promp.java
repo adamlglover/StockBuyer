@@ -19,6 +19,7 @@ Calculator calculator;
            transaction.handleTransaction();
            calculator.claculate();
            prompt.ask();   // ask user to buy more stock
+           //Now using my mac
         }
    }
 
