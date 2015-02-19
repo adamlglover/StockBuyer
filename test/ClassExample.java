@@ -1,7 +1,5 @@
 public class House {
-   int bedrooms = 5;
-   int bathrooms = 2;
-   int kitchens = 1;
+   int bedrooms = 5, bathrooms = 2, kitchens = 1;
 
    string maxCapacity(){
       return "The maxumin ammount of people that can live is " + bedrooms;
