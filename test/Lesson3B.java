@@ -2,6 +2,7 @@ public class Lesson3 {
 
  // data types
  Object      typex = "";
+ Object      typex1 = 6;
  String      type0 = " ";
  int         type1 = 0;
  boolean     type2 = true;
