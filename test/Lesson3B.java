@@ -11,7 +11,7 @@ public class Lesson3 {
  char        type5 = 'f';
  float	     type6 = 0;
  float       type7 = 0.0;
- long 	     type8 = 0;
+ long 	     type8 = 192819392l;
  double      type9 = 0.0;
  short       type10 = 0;
  
