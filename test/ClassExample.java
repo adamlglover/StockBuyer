@@ -5,6 +5,12 @@ public class House {
 
    string maxCapacity(){
       return "The maxumin ammount of people that can live is " + bedrooms;
+      return bedrooms; 
+      return "" + bedrooms; 
+      return bedrooms + "";
+      return "bedrooms";
+      return "";
+      return null;\  
    }
 
     class Buyer {
