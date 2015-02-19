@@ -28,5 +28,10 @@ public class Lesson4 {
 
  // the above 2 examples are the same as
  String str5 = "The number : 3 is added the string";
+ 
+ String str1 = 7;
+ String str2 = "" + 7;
+ String str3 = 7 + 7;
+ String str4 = "" + 7 + "" 7;
 
 }
