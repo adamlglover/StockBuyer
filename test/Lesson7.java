@@ -19,9 +19,9 @@ else {
 }
 
 // chaining if-else statements
-if( condition )
+if( 1 > 2 )
    // execute
-else if( condition )
+else if( 1 < 2 )
   // execute
 else
   // execute
