@@ -55,6 +55,6 @@ public class Review1 {
 
 String name = "Adam" ;
 
-String name, String house, String book;
+String name, house, book;
 
 }
