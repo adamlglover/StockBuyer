@@ -57,6 +57,7 @@ String name = "Adam" ;
 
 String name, house, book;
 
-int number = 2, new = 3
+int number = 2 , new = 3
+number + new
 
 }
