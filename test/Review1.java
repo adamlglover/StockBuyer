@@ -34,7 +34,7 @@ public class Review1 {
    Task 9 : Verify if each string concatinations will work below
 
   Battery bat = new Battery();
-  bool isCold = true;
+  boolean isCold = true;
   int temp = 7;
   String str1 = "It is cold? " + isCold;
   str1 = isCold + bat.getName();
