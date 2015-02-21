@@ -64,7 +64,7 @@ name = "Hi" + name + "i really like your" + house;
 
 String="Hello";
 Object=
-char='f';
+char letter ='f';
 float s = 6.0;
 short t = 34;
 long number = 2222;
