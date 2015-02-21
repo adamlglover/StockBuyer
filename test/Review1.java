@@ -69,5 +69,9 @@ float s = 6.0;
 short t = 34;
 long number = 2222l;
 int baby = 5;
+boolean hf = true;
+byte g = 5;
+double num = 5.43223;
+
 
 }
