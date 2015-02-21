@@ -52,4 +52,7 @@ public class Review1 {
 *  </ul>
 * </p>
 */
+
+String name = Adam;
+
 }
