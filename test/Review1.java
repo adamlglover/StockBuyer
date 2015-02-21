@@ -60,5 +60,5 @@ String name, house, book;
 int number = 2 , blue = 3, equation;
 equation = number + blue;
 
-"Hi" + name + "i really like your" + house;
+name = "Hi" + name + "i really like your" + house;
 }
