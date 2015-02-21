@@ -61,4 +61,13 @@ int number = 2 , blue = 3, equation;
 equation = number + blue;
 
 name = "Hi" + name + "i really like your" + house;
+
+String="Hello";
+Object=
+char="f";
+float=6.0;
+short=34;
+long=2222;
+int= name;
+
 }
