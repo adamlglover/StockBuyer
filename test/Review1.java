@@ -64,10 +64,10 @@ name = "Hi" + name + "i really like your" + house;
 
 String="Hello";
 Object=
-char="f";
-float=6.0;
-short=34;
-long=2222;
-int= name;
+char='f';
+float s = 6.0;
+short t = 34;
+long number = 2222;
+int baby = 5;
 
 }
