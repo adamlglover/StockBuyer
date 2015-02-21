@@ -67,7 +67,7 @@ Object=
 char letter ='f';
 float s = 6.0;
 short t = 34;
-long number = 2222;
+long number = 2222l;
 int baby = 5;
 
 }
