@@ -16,6 +16,11 @@ public class Lesson4 {
 
  // advanced concatination
  String str3 = "The number : " + 3 + " is added the string";
+ int x = 7;
+ 
+ String str5 = "This is crazy string" + (x + cos(y)) + "...";
+ String str6 = "Will this work?" + (x + x) + " (y/n)";
+ String str6 = "Will this work?" + 7 + "" + 7 + " (y/n)";
 
  int num = 3;
 
@@ -23,5 +28,10 @@ public class Lesson4 {
 
  // the above 2 examples are the same as
  String str5 = "The number : 3 is added the string";
+ 
+ String str1 = 7;
+ String str2 = "" + 7;
+ String str3 = 7 + 7;
+ String str4 = "" + 7 + "" 7;
 
 }
