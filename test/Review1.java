@@ -53,6 +53,6 @@ public class Review1 {
 * </p>
 */
 
-String name = Adam;
+String name = "Adam" ;
 
 }
