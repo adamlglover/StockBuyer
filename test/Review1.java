@@ -23,7 +23,7 @@ public class Review1 {
     String name = "Duracell AA";
 
     short getCells(){
-      return cells; 
+      return (short) cells; 
     }
 
     String getName(){
